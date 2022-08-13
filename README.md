@@ -1,4 +1,4 @@
-## Olaa eu sou Jino Hong, aspirante a me tornar um desenvolvedor-web !
+## Olaa eu sou Jino Hong
 <div align="center">
   <a href="https://github.com/jinoh0">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jinoh0&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
